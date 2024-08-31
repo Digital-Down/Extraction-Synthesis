@@ -1,0 +1,23 @@
+#License for Extraction Synthesis
+
+## License Grant
+
+Extraction Synthesis, provided by Digital Down, is offered free of charge. You are granted a non-exclusive, non-transferable license to use the software under the following terms:
+
+## Allowed Use
+
+1. **Generated Products**: You are allowed to use Extraction Synthesis to generate content or products. You may sell, distribute, or otherwise commercially exploit the products or content created using Extraction Synthesis.
+
+2. **Source Code**: You may access, view, and modify the source code of Extraction Synthesis for personal or internal use only.
+
+## Restrictions
+
+1. **Software Redistribution**: You may not redistribute, sublicense, or otherwise transfer copies of Extraction Synthesis or its source code to others without explicit permission.
+
+2. **Commercial Use of Software**: You may not use Extraction Synthesis itself for commercial purposes. This includes, but is not limited to, providing the software as a service or using it in any commercial enterprise.
+
+3. **Derivative Works**: You may not create derivative works based on Extraction Synthesis without explicit permission.
+
+## Disclaimer
+
+Extraction Synthesis is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall Digital Down be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
