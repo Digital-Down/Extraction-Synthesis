@@ -1,0 +1,20 @@
+Extraction Synthesis
+========================================================================================================================================================
+8-26-2024
+Released 1.0.0
+
+8-26-2024
+1.1.0		Added Advanced tab.
+1.2.0		Implemented Methylphenthylamine for more accepted oscillations (toggled in advanced tab).
+
+8-27-2024
+1.2.1		All note samples lengthened to 10 seconds.
+1.2.2		Incomplete note data removed.
+1.3.2		Single Phase Extraction plus and negative.
+
+8-30-2024
+1.4.2		Added maximum absolute average value threshold.
+1.5.2		Implemented Single Phase Extraction GUI
+========================================================================================================================================================
+8-31-2024
+Released 1.5.2
